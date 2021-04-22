@@ -1,8 +1,8 @@
 ## Meus comentários
 
-Fiz as atividades de 1 a 6, que são requisitos para a vaga de estágio em backend.
+    Fiz as atividades de 1 a 6, que são requisitos para a vaga de estágio em backend.
 O código original ja vinha com um exemplo de aplicação com a API do 'orgão-siafi'. Como estou no processo de aprendizagem do PHP, estudando sobre os padrões MVC mais expecificamente, e nunca tive contato com o framework 'Slim', me baseei fortemente no exemplo deixado para criar meus códigos.
-Aprendi muito com a realização deste teste e agradeço pelo exemplo deixado!
+    Aprendi muito com a realização deste teste e agradeço pelo exemplo deixado!
 
 
 ## 1. Atividades
